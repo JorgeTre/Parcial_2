@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Parcial_2</string>
+    <string name="txtEmail" translatable="false">Email</string>
+    <string name="txtContraseña" translatable="false">Contraseña</string>
+    <string name="btnIniciar_sesion" translatable="false">Iniciar Sesión</string>
+    <string name="lblRegistrarse" translatable="false">¿Aun no tienes una cuenta?</string>
+    <string name="lblOlvido" translatable="false">¿Olvidaste tu contraseña?</string>
+
+
+    <string name="lblCuenta" translatable="false">Crea una cuenta</string>
+    <string name="lbl1" translatable="false">Es gratis y lo será siempre.</string>
+    <string name="txtUsuario" translatable="false">Usuario</string>
+    <string name="TxtCodigo" translatable="false">Codigo</string>
+    <string name="TxtCarrera" translatable="false">Carrera</string>
+    <string name="btnRegistrarte" translatable="false">Registrarte</string>
+    <string name="lbltengo_cuenta" translatable="false">Ya tengo cuenta</string>
+
+
+    <string name="btnCiudad_Universitaria" translatable="false">Ciudad Universitaria</string>
+    <string name="btnCede_Central" translatable="false">Sede Central</string>
+
+    <string name="btnaulas" translatable="false">Aulas</string>
+    <string name="btnfacultad" translatable="false">Facultades</string>
+    <string name="btnauditorum" translatable="false">Auditorium</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="aula1" translatable="false">->Aula 1</string>
+    <string name="aula2" translatable="false">->Aula 2</string>
+    <string name="aula3" translatable="false">->Aula 3</string>
+
+    <string name="lblaula1" translatable="false">Descripción:</string>
+    <string name="regresar" translatable="false">Menú</string>
+    <string name="GitHub" translatable="false">Codigo Fuente</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

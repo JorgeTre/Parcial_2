@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Parcial_2</string>
+    <string name="btnIniciar_sesion" translatable="false">Log in</string>
+    <string name="lblRegistrarse" translatable="false">Do not you have an account yet?</string>
+    <string name="txtContraseña" translatable="false">Password</string>
+    <string name="txtEmail" translatable="false">E-mail</string>
+    <string name="lblOlvido" translatable="false">Did you forget your password?</string>
+    <string name="lblCuenta" translatable="false">Create an account</string>
+    <string name="lbl1" translatable="false">It is free and will always be.</string>
+    <string name="btnRegistrarte" translatable="false">Register</string>
+    <string name="txtUsuario" translatable="false">User</string>
+    <string name="btnCiudad_Universitaria" translatable="false">University City</string>
+    <string name="btnCede_Central" translatable="false">Sentral headquarters</string>
+    <string name="TxtCodigo" translatable="false">Code</string>
+    <string name="TxtCarrera" translatable="false">Career</string>
+    <string name="lbltengo_cuenta" translatable="false">" I already have an account"</string>
+    <string name="btnaulas" translatable="false">Classrooms</string>
+    <string name="btnfacultad" translatable="false">Faculties</string>
+    <string name="btnauditorum" translatable="false">Auditorium</string>
+    <string name="aula1">->classroom 1</string>
+    <string name="aula2">->classroom 2</string>
+    <string name="aula3">->classroom 3</string>
+    <string name="lblaula1" translatable="false">Description:</string>
+    <string name="regresar" translatable="false">Menu</string>
+    <string name="GitHub" translatable="false">Source Code</string>
+</resources>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+             xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="match_parent"
+             android:background="@drawable/fondo"
+             tools:context=".FragmentAuditorium">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+            android:id="@+id/auditorum1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-> Auditorium"
+            android:textColor="#fff"
+            android:textSize="25sp"
+            android:layout_marginTop="20dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="30dp"/>
+
+    <TextView
+            android:id="@+id/auditorum2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-> Auditorium"
+            android:textColor="#fff"
+            android:textSize="25sp"
+            android:layout_marginTop="60dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="30dp"/>
+
+    <TextView
+            android:id="@+id/auditorum3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="-> Auditorium"
+            android:textColor="#fff"
+            android:textSize="25sp"
+            android:layout_marginTop="100dp"
+            android:layout_marginStart="60dp"
+            android:layout_marginEnd="30dp"/>
+
+</FrameLayout>
