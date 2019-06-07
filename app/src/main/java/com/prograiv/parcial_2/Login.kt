@@ -8,18 +8,18 @@ import android.widget.EditText
 
 class Login : AppCompatActivity() {
 
-    /*private lateinit var txtEmail: EditText
+    private lateinit var txtEmail: EditText
     private lateinit var txtPassword: EditText
 
     private var email: String = ""
-    private var password: String = ""*/
+    private var password: String = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_login)
 
-        /*txtEmail = findViewById(R.id.TxtEmail)
-        txtPassword = findViewById(R.id.Txtcontraseña)*/
+        txtEmail = findViewById(R.id.TxtEmail)
+        txtPassword = findViewById(R.id.Txtcontraseña)
     }
     fun Areas(view: View){
         val intent = Intent(this, Areas::class.java)
@@ -30,7 +30,7 @@ class Login : AppCompatActivity() {
         startActivity(intent)
     }
 
-   /* override fun onStop() {
+   override fun onStop() {
         super.onStop()
 
         email = txtEmail.text.toString()
@@ -51,5 +51,5 @@ class Login : AppCompatActivity() {
             txtEmail.setText(email)
             txtPassword.setText(password)
         }
-    }*/
+    }
 }
