@@ -6,7 +6,12 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:background="@drawable/fondo"
-        tools:context=".Areas">
+        tools:context=".Areas"
+        android:fitsSystemWindows="true"
+        tools:openDrawer="start">
+
+
+
     <ImageView
             android:id="@+id/univomaps"
             android:layout_width="150dp"
@@ -44,5 +49,17 @@
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/Ciudad_Universitaria"
             android:layout_marginTop="40dp" android:onClick="Ciudad_universitaria"/>
+    <TextView
+            android:id="@+id/olvido"
+            android:text="@string/lblconexion"
+            android:textSize="14sp"
+            android:textColor="#fff"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/Sede_Central"
+            android:layout_marginTop="80dp"
+            android:onClick="sinConexion"/>
 
 </android.support.constraint.ConstraintLayout>

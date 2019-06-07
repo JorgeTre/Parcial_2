@@ -12,7 +12,7 @@ class Mostrar_Aulas : AppCompatActivity() {
         setContentView(R.layout.activity_mostrar__aulas)
     }
     fun Ciudad_universitaria(view: View) {
-        val intent = Intent(this, Ciudad_Universitaria::class.java)
+        val intent = Intent(this, sin_conexion::class.java)
         startActivity(intent)
     }
 }

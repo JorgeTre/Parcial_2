@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "356664310385",
+    "firebase_url": "https://univo-maps-7aef5.firebaseio.com",
+    "project_id": "univo-maps-7aef5",
+    "storage_bucket": "univo-maps-7aef5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:356664310385:android:21c5ef53da25df9e",
+        "android_client_info": {
+          "package_name": "com.prograiv.parcial_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "356664310385-e2gd1qf6eq7tgnpnskjnchltp0pmvucs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.prograiv.parcial_2",
+            "certificate_hash": "55c189ab2c7e5d58de059a6aaf022c957d1ad0b5"
+          }
+        },
+        {
+          "client_id": "356664310385-qopbksdj3iil4cimdivln4dhqt5j284u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpW95V9nAxZOabCe0V_w2DM9Hpy_tjTiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "356664310385-qopbksdj3iil4cimdivln4dhqt5j284u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

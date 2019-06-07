@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Parcial_2</string>
+    <string name="app_name">Univo Maps</string>
     <string name="btnIniciar_sesion" translatable="false">Log in</string>
     <string name="lblRegistrarse" translatable="false">Do not you have an account yet?</string>
     <string name="txtContraseña" translatable="false">Password</string>
@@ -24,4 +24,10 @@
     <string name="lblaula1" translatable="false">Description:</string>
     <string name="regresar" translatable="false">Menu</string>
     <string name="GitHub" translatable="false">Source Code</string>
+    <string name="Perfil" translatable="false">Profile</string>
+    <string name="title_activity_ciudad_universitaria_maps">Map</string>
+    <string name="Inicio" translatable="false">Start</string>
+    <string name="cerrar" translatable="false">Cerrar Sesión</string>
+    <string name="finish" translatable="false">Finish apps</string>
+    <string name="lblconexion" translatable="false">Without connection</string>
 </resources>

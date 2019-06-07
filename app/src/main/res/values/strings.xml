@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Parcial_2</string>
+    <string name="app_name" translatable="false">Univo Maps</string>
     <string name="txtEmail" translatable="false">Email</string>
     <string name="txtContraseña" translatable="false">Contraseña</string>
     <string name="btnIniciar_sesion" translatable="false">Iniciar Sesión</string>
@@ -32,6 +32,24 @@
     <string name="regresar" translatable="false">Menú</string>
     <string name="GitHub" translatable="false">Codigo Fuente</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Perfil" translatable="false">Perfil</string>
+    <string name="cerrar" translatable="false">Cerrar Sesión</string>
+    <string name="lblconexion" translatable="false">"Usar Sin Conexión "</string>
+    <string name="title_activity_ciudad_universitaria_maps" translatable="false">Map</string>
+    <string name="Inicio" translatable="false">Inicio</string>
+    <string name="title_activity_desplegable">desplegable</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+    <string name="title_activity_navigation">Navigation</string>
 </resources>

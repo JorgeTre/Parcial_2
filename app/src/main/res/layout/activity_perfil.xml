@@ -44,7 +44,7 @@
     />
     <TextView
             android:id="@+id/CARRERA"
-            android:text="iNGENIERIA EN SISTEMAS"
+            android:text="INGENIERIA EN SISTEMAS"
             android:textSize="15dp"
             android:textColor="#fff"
             android:layout_width="wrap_content"
