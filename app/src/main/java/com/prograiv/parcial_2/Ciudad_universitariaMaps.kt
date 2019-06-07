@@ -153,6 +153,12 @@ class Ciudad_universitariaMaps : AppCompatActivity(), OnMapReadyCallback, Google
         map.addMarker(MarkerOptions().position(mLabFisica).title("Laboratorio de Fisica"))
         //map.moveCamera(CameraUpdateFactory.newLatLng(mLabFisica))
 
+        val mLabI = LatLng(13.507746,-88.232087)
+        map.addMarker(MarkerOptions().position(mLabI).title("Laboratorios Industriales"))
+
+        val mBib = LatLng(13.506856,-88.232017)
+        map.addMarker(MarkerOptions().position(mBib).title("Biblioteca"))
+
         /*val mAulax1 = LatLng(13.5072)
         map.addMarker(MarkerOptions().position(mAulax1).title("Laboratorio de Fisica"))
         map.moveCamera(CameraUpdateFactory.newLatLng(mAulax1))

@@ -22,6 +22,11 @@ class Areas : AppCompatActivity() {
         val intent = Intent(this, Ciudad_universitariaMaps::class.java)
         startActivity(intent)
     }
+    fun Sede_central(view: View){
+        val intent = Intent(this, Sede_central::class.java)
+        startActivity(intent)
+    }
+
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         val menuInflater = menuInflater

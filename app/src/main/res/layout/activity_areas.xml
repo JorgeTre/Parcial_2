@@ -48,7 +48,7 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/Ciudad_Universitaria"
-            android:layout_marginTop="40dp" android:onClick="Ciudad_universitaria"/>
+            android:layout_marginTop="40dp" android:onClick="Sede_central"/>
     <TextView
             android:id="@+id/olvido"
             android:text="@string/lblconexion"
